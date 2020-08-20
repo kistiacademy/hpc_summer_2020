@@ -67,3 +67,7 @@
 | 14:00~15:00 | 기본   환경 설치 및 사용법           |
 | 15:00~17:00 | Job Scheduler 사용법                 |
 
+<hr/>
+## 설문조사
+- https://forms.gle/dgJfNY75EmgRB4Gr8
+
