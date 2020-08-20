@@ -1,6 +1,6 @@
 # KISTI-충북대 SW중심대학사업단 HPC 여름학교
 - 일시: 2020년 8월 24일(월) ~ 26일(수), 10:00 ~ 17:00 (3일)
-- 온라인(라이브)으로 진행
+- 온라인으로 라이브 강의 진행
 
 ## ZOOM 접속 방법
 - https://us02web.zoom.us/j/88126757626?pwd=SFBVWE1HSlVDNnRYQkVqWmROam1DUT09
